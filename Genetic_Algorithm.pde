@@ -1,6 +1,6 @@
 final int populationSize= 500;
 final float mutationRate= 0.01;
-final int panelHeight= 90;
+final int panelHeight= 100;
 int height0;
 int lifeTime;
 int lifeCycle= 0;
